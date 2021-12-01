@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body { padding-top: 20px!important; }
+
+.card { margin-top: 50px;; }
+
+table tr { text-align: center;}
+
+.done { 
+  text-decoration: line-through; 
+  background-color: rgb(177, 233, 228);
+}
